@@ -10,7 +10,6 @@ import io.cucumber.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        strict = $strict,
         features = {"$featureFile"},
         plugin = #stringArray($plugins),
         monochrome = $monochrome,
