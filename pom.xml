@@ -8,14 +8,12 @@
         <version>9</version>
     </parent>
 
-    <groupId>com.github.sanketparopate</groupId>
+    <groupId>com.mrisoftware.cucumber</groupId>
     <artifactId>cucumber-jvm-parallel-features-plugin</artifactId>
     <version>5.0.3</version>
     <packaging>maven-plugin</packaging>
 
     <name>cucumber-jvm-parallel-features-plugin Maven Plugin</name>
-
-    <url>https://github.com/sanketparopate/cucumber-jvm-parallel-features-plugin</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -399,11 +397,6 @@
     </developers>
 
     <inceptionYear>2015</inceptionYear>
-
-    <issueManagement>
-        <system>github</system>
-        <url>https://github.com/sanketparopate/cucumber-jvm-parallel-features-plugin</url>
-    </issueManagement>
 
     <distributionManagement>
         <repository>
