@@ -10,7 +10,7 @@
 
     <groupId>com.mrisoftware.cucumber</groupId>
     <artifactId>cucumber-jvm-parallel-features-plugin</artifactId>
-    <version>5.0.3</version>
+    <version>5.0.4</version>
     <packaging>maven-plugin</packaging>
 
     <name>cucumber-jvm-parallel-features-plugin Maven Plugin</name>
